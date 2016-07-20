@@ -1,0 +1,9 @@
+#on mac ~/.ssh/config
+#use ssh owl or ssh bio to login
+Host bio
+HostName biocluster.ucr.edu
+User cjinfeng
+
+Host owl
+HostName owl.ucr.edu
+User cjinfeng
